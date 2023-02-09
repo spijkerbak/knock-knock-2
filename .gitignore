@@ -1,0 +1,8 @@
+secret.*
+/.git
+/.vscode
+*/target/**
+\~*.*
+*.bak
+*.bkp
+*.dtmp
